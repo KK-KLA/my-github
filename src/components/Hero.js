@@ -41,7 +41,7 @@ function Hero() {
 
     <div className="mt-5 d-flex justify-content-end">
       <img
-        src="https://png.pngtree.com/png-vector/20240123/ourmid/pngtree-fried-egg-with-stir-fried-minced-pork-and-basil-isolated-png-image_11469608.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStRNhekmhYIi4X64AgCIgaLZbZqH72BJT5lw&s "
         alt="Dish"
         className="rounded shadow-lg"
         style={{ width: "300px", height: "auto" }}

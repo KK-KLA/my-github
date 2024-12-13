@@ -7,22 +7,22 @@ function HowItWorks() {
       <h2>How does it work?</h2>
       <div className="row mt-4">
         <div className="col-md-3">
-          <img src="https://png.pngtree.com/element_our/sm/20180515/sm_5afb0cf7bd445.jpg" width="150" height="150"alt="Select location" />
+          <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="150" height="150"alt="Select location" />
           <h5>Select location</h5>
           <p>Choose the location where your food will be delivered.</p>
         </div>
         <div className="col-md-3">
-          <img src="https://e7.pngegg.com/pngimages/4/102/png-clipart-fork-and-spoon-gps-logo-take-out-online-food-ordering-delivery-restaurant-the-restaurant-door-food-logo.png" width="150" height="150"alt="Choose order" />
+          <img src="https://cdn-icons-png.flaticon.com/512/857/857681.png" width="150" height="150"alt="Choose order" />
           <h5>Choose order</h5>
           <p>Check over hundreds of menus to pick your favorite food.</p>
         </div>
         <div className="col-md-3">
-          <img src="https://static.vecteezy.com/system/resources/thumbnails/006/693/037/small_2x/coin-stack-icon-money-dollar-symbol-business-pay-concept-isolated-on-white-free-vector.jpg" width="150" height="150"alt="Pay advanced" />
+          <img src="https://static-00.iconduck.com/assets.00/money-icon-1024x1024-f6dh1k6o.png" width="150" height="150"alt="Pay advanced" />
           <h5>Pay advanced</h5>
           <p>It's quick, safe, and simple. Select several methods of payment.</p>
         </div>
         <div className="col-md-3">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DJpBrqnYygbqATRJeA20kl-OvFUKypxUx9OBBtAI9JeWfE-RH4SfexYPhScebLk4zZw&usqp=CAU" width="150" height="150" alt="Enjoy meals" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBo6PL-Q6FYo2ARh6ke0EquUFyM5_pCXCRwQ&s" width="150" height="150" alt="Enjoy meals" />
           <h5>Enjoy meals</h5>
           <p>Food is made and delivered directly to your home.</p>
         </div>

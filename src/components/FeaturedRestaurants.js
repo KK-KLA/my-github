@@ -10,7 +10,7 @@ function FeaturedRestaurants() {
       <div className="col-md-3" key={index}>
         <div className="card shadow-sm">
           <img
-            src="https://www.aimadeitforyou.com/wp-content/uploads/2016/04/fullsizeoutput_5f66.jpeg"
+            src="https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
             className="card-img-top"
             alt="Dish"
           />
